@@ -1,5 +1,8 @@
-# Summer Research Experience for Undergraduates at NIMBioS
+# Modeling Hunting and Harvesting Interactions Between Plants and Their Seed Dispersers
 
-## Co-harvesting team
 
-Code repository for NIMBioS SRE focused on co-harvest of plants and animals
+## Details
+
+`agouti-brazilnut.r`:
+
+`Manuscript_Figures`:
